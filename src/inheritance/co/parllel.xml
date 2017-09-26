@@ -1,0 +1,9 @@
+
+<suite name="Suite" parallel="classes" thread-count = "2">
+  <test name="Test">
+    <classes>
+      <class name="inheritance.co.mz.parllel"/>
+      <class name="inheritance.co.mz.parllel1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

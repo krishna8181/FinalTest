@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23314" started-at="2017-07-17T17:24:57Z" finished-at="2017-07-17T17:25:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23314" started-at="2017-07-17T17:24:57Z" finished-at="2017-07-17T17:25:20Z">
+      <class name="inheritance.co.mz.TestNGtest">
+        <test-method status="PASS" signature="login()[pri:0, instance:inheritance.co.mz.TestNGtest@735b5592]" name="login" is-config="true" duration-ms="13067" started-at="2017-07-17T19:24:57Z" finished-at="2017-07-17T19:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="selecta()[pri:0, instance:inheritance.co.mz.TestNGtest@735b5592]" name="selecta" duration-ms="20" started-at="2017-07-17T19:25:10Z" finished-at="2017-07-17T19:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selecta -->
+        <test-method status="PASS" signature="selectloginbusiness()[pri:0, instance:inheritance.co.mz.TestNGtest@735b5592]" name="selectloginbusiness" duration-ms="4594" started-at="2017-07-17T19:25:10Z" depends-on-methods="inheritance.co.mz.TestNGtest.selecta" finished-at="2017-07-17T19:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectloginbusiness -->
+        <test-method status="PASS" signature="absalogindetails()[pri:3, instance:inheritance.co.mz.TestNGtest@735b5592]" name="absalogindetails" duration-ms="5608" started-at="2017-07-17T19:25:14Z" finished-at="2017-07-17T19:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- absalogindetails -->
+      </class> <!-- inheritance.co.mz.TestNGtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

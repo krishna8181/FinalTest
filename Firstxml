@@ -1,0 +1,9 @@
+
+<suite name="Ecommerce">
+  <test name="Sanity">
+    <classes>
+      <class name="inheritance.co.inheritance.co.mz.newkk"/>
+      <class name="inheritance.co.inheritance.co.mz.newkk2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
